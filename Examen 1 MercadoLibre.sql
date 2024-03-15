@@ -212,3 +212,7 @@ END //
 
 DELIMITER ;
 CALL registrarCliente('016', 4, 4, 'Martinez', 'monterrey');
+
+
+DELIMITER //
+
