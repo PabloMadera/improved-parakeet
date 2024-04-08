@@ -120,7 +120,7 @@ INSERT INTO usuarios (nombre, correo) VALUES
 ('antonela','antonela@gmail'),
 ('daniela','daniela@gmail'),
 ('angel','angel@gmail');
-
+('angel','angel@gmial.com')
 
 describe forma_de_pago;
 INSERT INTO forma_de_pago (efectivo, tarjeta) VALUES 
